@@ -1,0 +1,12 @@
+div{
+    height:40px;
+    display: block;
+    padding:5px;
+}
+img{
+    width: auto;
+    height: 40px;
+    position: relative;
+    left: auto;
+    right: auto;
+}
