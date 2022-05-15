@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 div{
     height:40px;
     display: block;
@@ -9,4 +10,17 @@ img{
     position: relative;
     left: auto;
     right: auto;
+=======
+div{
+    height:40px;
+    display: block;
+    padding:5px;
+}
+img{
+    width: auto;
+    height: 40px;
+    position: relative;
+    left: auto;
+    right: auto;
+>>>>>>> 619454c00457905e30716d6ce8ec99618e3ea8e9
 }
