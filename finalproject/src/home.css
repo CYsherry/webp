@@ -1,0 +1,8 @@
+.post {
+    background-color: rgba(69, 84, 133, 0.15);
+    width: 800px;
+    height: 480px;
+    padding: 15px;
+    display: block;
+    margin: 30px auto;
+}

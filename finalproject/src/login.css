@@ -1,0 +1,31 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-image: url('background.png');
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.Login {
+    background-color: rgba(82, 94, 134, 0.15);
+    width: 530px;
+    height: 480px;
+    padding: 15px;
+    display: block;
+    margin: 30px auto;
+}
+
+.signIn {
+    width: 400px;
+    position: absolute;
+    left: 35%;
+    top: 20%;
+    text-align: center;
+}
+
+.loginIcon {
+    position: absolute;
+    left: 48.3%;
+    top: 10%;
+}
